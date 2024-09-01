@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import "./TagBar.css";
+import "../style/TagBar.css";
 import HashTag from "./HashTag";
 
 const Bar = styled.div`

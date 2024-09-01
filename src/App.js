@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import Post from "./Post";
-import TagBar from "./TagBar";
-import SelectedTag from "./SelectedTag";
 import styled from "styled-components";
+import Post from "./components/Post";
+import TagBar from "./components/TagBar";
+import SelectedTag from "./components/SelectedTag";
 
 const Body = styled.div`
   padding-left: 30px;
